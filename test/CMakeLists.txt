@@ -1,0 +1,2 @@
+add_subdirectory(testServer)
+add_subdirectory(testClient)
